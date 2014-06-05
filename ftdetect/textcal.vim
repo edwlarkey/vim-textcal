@@ -1,1 +1,1 @@
-autocmd BufNewFile, BufRead *.textcal setf textcal
+autocmd BufNewFile,BufRead *.textcal set filetype=textcal
